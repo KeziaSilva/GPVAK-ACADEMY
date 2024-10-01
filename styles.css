@@ -1,10 +1,10 @@
 :root {
-    --branco-principal: #FFFFFF;
-    --cinza-secundario: #C0C0C0;
-    --botao-azul: #167BF7;
+    --branco-principal: #8a6a99;
+    --cinza-secundario: #8a6a99;
+    --botao-azul: #9516f7;
     --cor-de-fundo: #00030C;
     --fonte-principal: 'Inter';
-    --botao-azul-efeito: #3c92fa;
+    --botao-azul-efeito: #b83cfa;
 }
 
 body {
@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-    background-image: url("img/Background.png");
+    background-image: url("img/estudantes.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
